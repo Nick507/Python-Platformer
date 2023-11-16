@@ -1,6 +1,6 @@
 # Python-Platformer
 
-This is a reworked version of https://github.com/techwithtim/Python-Platformer
+This is a reworked version of https://github.com/techwithtim/Python-Platformer.
 I didn't have a goal to make complete game, just studing pygame library, so this code is a prototype, nothing more.
 I've found the tutorial on techwithtim youtube channel, and started to playing around it.
 The main problem I've bumped with, was the collision detection. Running animation consists of jump phase and landing phase, 
